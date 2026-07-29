@@ -28,7 +28,7 @@ My goal is to keep growing as a developer, embrace new challenges, and contribut
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,fastapi,sqlite, postgresql,git,github&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,fastapi,sqlite,postgres,git,github&perline=5"/>
 </p>
 
 ---
