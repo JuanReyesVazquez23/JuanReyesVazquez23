@@ -10,10 +10,6 @@ Passionate about technology, software development, and continuous learning.
 My primary focus is <strong>Web Development</strong>, where I enjoy building modern, reliable, and user-friendly applications while continuously expanding my knowledge.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanReyesVazquez23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -32,7 +28,7 @@ My goal is to keep growing as a developer, embrace new challenges, and contribut
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,postgresql,fastapi,sqlite,git,github&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,Python,flask,fastapi,sqlite, PostgreSQL,git,github&perline=5"/>
 </p>
 
 ---
