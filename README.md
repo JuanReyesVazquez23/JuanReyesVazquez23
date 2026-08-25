@@ -54,11 +54,9 @@ My goal is to keep growing as a developer, embrace new challenges, and contribut
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanReyesVazquez23&theme=tokyonight&hide_border=true"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuanReyesVazquez23)](https://git.io/streak-stats)
 
 ---
 
