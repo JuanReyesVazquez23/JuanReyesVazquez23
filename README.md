@@ -76,10 +76,7 @@ My goal is to keep growing as a developer, embrace new challenges, and contribut
   <a href="https://github.com/JuanReyesVazquez23">
     <img src="https://img.shields.io/badge/GitHub-JuanReyesVazquez23-181717?style=for-the-badge&logo=github"/>
   </a>
-
-  <a href="https://www.instagram.com/juandjreyesv39">
-    <img src="https://img.shields.io/badge/Instagram-@juandjreyesv39-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
